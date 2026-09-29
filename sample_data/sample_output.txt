@@ -1,0 +1,292 @@
+===Library Management System===
+
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+1
+
+===ADD BOOK===
+
+----------------------------------------------------------------------------------------------------
+Enter ISBN no.
+11
+Enter Book title
+Harry Potter
+Enter Book author
+JK Rowling
+Enter Book genre
+Sci-fi
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+1
+
+===ADD BOOK===
+
+----------------------------------------------------------------------------------------------------
+Enter ISBN no.
+12
+Enter Book title
+Frankestein
+Enter Book author
+Marry Shelly
+Enter Book genre
+Horror
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+1
+
+===ADD BOOK===
+
+----------------------------------------------------------------------------------------------------
+Enter ISBN no.
+13
+Enter Book title
+The Merchant Of Venice
+Enter Book author
+William Shakespeare
+Enter Book genre
+Drama
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+2
+
+===ADD MEMBER===
+
+----------------------------------------------------------------------------------------------------
+Enter member Id
+101
+Enter member name
+Bob
+Enter member contact
+779773
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+2
+
+===ADD MEMBER===
+
+----------------------------------------------------------------------------------------------------
+Enter member Id
+102
+Enter member name
+Alice
+Enter member contact
+81673
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+2
+
+===ADD MEMBER===
+
+----------------------------------------------------------------------------------------------------
+Enter member Id
+103
+Enter member name
+Shilpa
+Enter member contact
+81673
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+3
+
+===DISPLAY BOOKS===
+
+----------------------------------------------------------------------------------------------------
+ISBN :11
+Title :Harry Potter
+Author :JK Rowling
+Genre :Sci-fi
+Availability :Yes
+ISBN :12
+Title :Frankestein
+Author :Marry Shelly
+Genre :Horror
+Availability :Yes
+ISBN :13
+Title :The Merchant Of Venice
+Author :William Shakespeare
+Genre :Drama
+Availability :Yes
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+5
+
+===SEARCH BOOKS===
+
+----------------------------------------------------------------------------------------------------
+Enter keyword
+Frank
+List of Books that matches your search are:
+ISBN :12
+Title :Frankestein
+Author :Marry Shelly
+Genre :Horror
+Availability :Yes
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+6
+
+===BORROW BOOK===
+
+----------------------------------------------------------------------------------------------------
+Enter your memberId
+101
+Enter isbn number of book
+12
+Book has been borrowed succesfully
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+4
+
+===DISPLAY AVAILABLE BOOKS===
+
+----------------------------------------------------------------------------------------------------
+ISBN :11
+Title :Harry Potter
+Author :JK Rowling
+Genre :Sci-fi
+Availability :Yes
+ISBN :13
+Title :The Merchant Of Venice
+Author :William Shakespeare
+Genre :Drama
+Availability :Yes
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+7
+
+===RETURN BOOK===
+
+----------------------------------------------------------------------------------------------------
+Enter your memberId
+101
+Enter isbn number of book
+12
+Book returned succesfully
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+4
+
+===DISPLAY AVAILABLE BOOKS===
+
+----------------------------------------------------------------------------------------------------
+ISBN :11
+Title :Harry Potter
+Author :JK Rowling
+Genre :Sci-fi
+Availability :Yes
+ISBN :12
+Title :Frankestein
+Author :Marry Shelly
+Genre :Horror
+Availability :Yes
+ISBN :13
+Title :The Merchant Of Venice
+Author :William Shakespeare
+Genre :Drama
+Availability :Yes
+----------------------------------------------------------------------------------------------------
+1. Add New Book
+2. Register New Member
+3. Display All Books
+4. Display Available Books
+5. Search Books
+6. Borrow Book
+7. Return Book
+8. Exit
+Enter your choice:
+8
